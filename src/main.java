@@ -27,7 +27,7 @@ public class main {
             int option = 2;
 
             if (option == 1);
-                //run add stock
+                //add function
             else if (option == 2)
                 break;
         }
